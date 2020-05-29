@@ -28,7 +28,7 @@
    
 ### 3. Test   
     
-> 문제 001번 - 100번
+> 문제 001번 - 문제 100번   
    
    
 <sub><sup>Written by </sup><sup>@DeepxHyeon</sup></sub>
